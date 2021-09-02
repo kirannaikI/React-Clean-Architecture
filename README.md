@@ -1,8 +1,8 @@
 # React-Clean-Architecture
 
-Built with Clean Architecture
-  Application - Redux
-  Views - React
+Built with Clean Architecture               
+  Application - Redux                         
+  Views - React              
   Infrastructure - Axios
   
   
